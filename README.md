@@ -22,10 +22,6 @@ Euphony, a gifted young musician, lives in the vibrant land of Melodica, a realm
 Stripped of her music and hope, Euphony discovers that her beloved instrument,once a symbol of harmony—is not entirely powerless. It transforms into a mystical sword infused with the essence of sound itself. With this weapon, Euphony embarks on an epic quest to retrieve her stolen notes, using both the beauty of music and the sharp edge of determination to fight back.
 
 ### The Solution
-Here’s the updated version with the village as a lively, normal setting:  
-
----
-
 ### **Levels in *Euphony***  
 
 1. **The Village***  
