@@ -16,26 +16,31 @@
 ### Project Description
 Euphony is a 2D adventure game made in godot where Euphony embarks on a quest to retrieve her stolen musical notes from the evil witch Noctura.
 ### The Problem statement
-[What ridiculous problem are you solving?]
+"In a world where music holds the power to shape reality, silence is the greatest curse."
+Euphony, a gifted young musician, lives in the vibrant land of Melodica, a realm where every sound weaves into the fabric of life. Her melodies could heal the wounded, make flowers bloom, and even tame wild beasts. But one fateful night, an evil witch named Noctura—a sorceress banished for her obsession with forbidden, dissonant magic—steals Euphony’s enchanted musical notes, scattering them across cursed lands to drain their power and plunge the world into eternal silence.
+
+Stripped of her music and hope, Euphony discovers that her beloved instrument,once a symbol of harmony—is not entirely powerless. It transforms into a mystical sword infused with the essence of sound itself. With this weapon, Euphony embarks on an epic quest to retrieve her stolen notes, using both the beauty of music and the sharp edge of determination to fight back.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+Here’s the updated version with the village as a lively, normal setting:  
 
+---
+
+### **Levels in *Euphony***  
+
+1. **The Village***  
+   This is where Euphony’s journey begins.  Player  parkours through the lively village, using Euphony’s agility. As she progresses, signs of the witch’s dark influence begin to creep in—fading colors.This level focuses entirely on fluid parkour mechanics, immersing players in fast-paced, dynamic movement through the village,this level is a fast-paced, movement-driven experience where Euphony navigates the village’s evolving landscape using precise jumps.
+2. **The Dark Forest***  
+   Entering the foreboding Dark Forest, Euphony is engulfed in an oppressive, eerie silence broken only by faint, haunting whispers. The dense canopy blocks out the light, casting long, shifting shadows that seem to move with a will of their own. Players face rhythm-based combat challenges. The deeper Euphony ventures, the stronger the dissonance grows, unraveling the harmony of her world.  
+
+3. **The Depths of the Forest – *Symphony of Shadows***  
+   At the heart of the cursed woods lies Noctura’s lair—a surreal, nightmarish landscape where nature and dark magic collide. Twisted roots pulse with malevolent energy, and the sky swirls with ominous hues. Here, Euphony faces the ultimate challenge: an epic boss battle against Noctura. The battle is an intense fusion of rhythm and combat, with Noctura’s chaotic symphony clashing against Euphony’s reclaimed melodies. Players must strike in perfect harmony, using the full power of the Blade to counter Noctura’s dark magic and restore balance to the world.  
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
+- Languages used: GD Script(Godot)
 ### Implementation
-For Software:
+For Software:Godot
 # Installation
 [commands]
 
