@@ -39,11 +39,49 @@ For Software:
 ### Implementation
 For Software:Godot
 # Installation
-[commands]
+1. Download Godot Engine:
+Visit the official Godot website: https://godotengine.org/download
+Choose the version compatible with your operating system:
+Windows: Download the .exe file
+Mac: Download the .dmg file
+Linux: Download the .x86_64 file
+2. Install Godot:
+For Windows:
 
+Extract the downloaded .zip file (if applicable).
+Double-click the Godot_v4.2.2.exe file to launch the engine. (No installation is required since it’s a portable application.)
+For Mac:
+
+Open the .dmg file.
+Drag the Godot icon into your Applications folder.
+Double-click to run Godot.
+For Linux:
+
+Make the file executable by right-clicking → Properties → Permissions → Check “Allow executing file as program.”
+Or run this command in the terminal:
+bash
+Copy
+Edit
+chmod +x Godot_v4.2.2.x86_64
+./Godot_v4.2.2.x86_64
+4. Launch Godot:
+After installation, open Godot.
 # Run
-[commands]
+### **How to Set Up and Run *Euphony***  
 
+#### **1. Extract the Project Files:**  
+- Locate the compressed file: **`apex_projectzip.godot`**  
+- Extract its contents to your desired location on your device.  
+
+#### **2. Import the Project into Godot:**  
+- Open the **Godot Engine** (version 4.2.2 or compatible).  
+- Click on **“Import Project”** from the main menu.  
+- Navigate to the folder where you extracted the files.  
+- Select the project folder named **Euphony** and click **“Import & Edit”**.  
+
+#### **3. Run the Game:**  
+- Once the project is loaded, click the **“Play” (▶️) button** at the top of the Godot editor.  
+- *Euphony* will launch, and you’re ready to begin your adventure!  
 ### Project Documentation
 For Software:
 
