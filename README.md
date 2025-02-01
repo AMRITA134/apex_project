@@ -89,7 +89,7 @@ For Software:
 # Screenshots (Add at least 3)
 ![Screenshot 2025-02-01 223532](https://github.com/user-attachments/assets/0ea19787-97ae-4f7f-86f1-31fdd4457a67)
 
-## Welcome to the heart of Euphony—the Main Menu, where your melodic adventure begins.##
+## Welcome to the heart of Euphony—the Main Menu, where your melodic adventure begins.
 
 ![Screenshot 2025-02-01 223903](https://github.com/user-attachments/assets/bd0fd672-c623-41fe-9f1a-6911ba807993)
 
