@@ -86,14 +86,19 @@ After installation, open Godot.
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+https://drive.google.com/file/d/13HiaW-jvHDopeW8v1XF5MjZh0Y8KqkA9/view?usp=drive_link
+main
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+https://drive.google.com/file/d/1O7ykvyyOfycVBqDRv-Eq_El2UNyZahyT/view?usp=drive_link
+level1
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+https://drive.google.com/file/d/13PkPbNbSApQm-Es66U9aIsMmRT_Xey3y/view?usp=drive_link
+level2
 *Add caption explaining what this shows*
+https://drive.google.com/file/d/1R2X_RB9n7PXs8iaK4KHlyFk5dmXxpLXs/view?usp=drive_link
+level 3
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
