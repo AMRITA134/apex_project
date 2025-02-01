@@ -1,14 +1,14 @@
-# [Project Name] 🎯
+## EUPHONY
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: APEX
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: AMRITA JYOTHI - AISAT
+- Member 2: ELNA SUSAN - AISAT
+- Member 3: THERES MANUELA - AISAT
 
 ### Hosted Project Link
 [mention your project hosted project link here]
