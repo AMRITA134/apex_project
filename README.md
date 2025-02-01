@@ -35,6 +35,7 @@ Stripped of her music and hope, Euphony discovers that her beloved instrument,on
 ### Technologies/Components Used
 For Software:
 - Languages used: GD Script(Godot)
+  - Libraries used: The game features a rich tapestry of environments, characters, and enemies, created through a combination of original artwork and assets sourced from diverse image libraries. These visuals help define the distinct atmosphere of each level—from the lively charm of Village to the shadowy depths of the Dark Forest and the ominous aura of Noctura’s lair.  
 ### Implementation
 For Software:Godot
 # Installation
