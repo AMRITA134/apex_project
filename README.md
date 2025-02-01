@@ -87,57 +87,30 @@ For Software:
 
 # Screenshots (Add at least 3)
 https://drive.google.com/file/d/13HiaW-jvHDopeW8v1XF5MjZh0Y8KqkA9/view?usp=drive_link
-main
-*Add caption explaining what this shows*
+## Welcome to the heart of Euphony—the Main Menu, where your melodic adventure begins.##
 
 https://drive.google.com/file/d/1O7ykvyyOfycVBqDRv-Eq_El2UNyZahyT/view?usp=drive_link
-level1
-*Add caption explaining what this shows*
+## Level 1:  Village##
+
 
 https://drive.google.com/file/d/13PkPbNbSApQm-Es66U9aIsMmRT_Xey3y/view?usp=drive_link
-level2
-*Add caption explaining what this shows*
+## Level 2: The Dark Forest
+
 https://drive.google.com/file/d/1R2X_RB9n7PXs8iaK4KHlyFk5dmXxpLXs/view?usp=drive_link
-level 3
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+## Level 3: The Heart of the Dark Forest.This is the battle where your destiny—and the soul of Euphony—will be decided.
 
 # Build Photos
 ![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Amrita Jyothi:level building and coding
+- Elna Susan: [Specific contributions]
+- Theres Manuela: [Specific contributions]
 
----
+
 Made with ❤️ at TinkerHub
