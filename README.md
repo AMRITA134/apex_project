@@ -14,8 +14,7 @@
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
-
+Euphony is a 2D adventure game made in godot where Euphony embarks on a quest to retrieve her stolen musical notes from the evil witch Noctura.
 ### The Problem statement
 [What ridiculous problem are you solving?]
 
