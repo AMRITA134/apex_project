@@ -1,4 +1,5 @@
 ## EUPHONY
+![Screenshot 2025-02-01 223532](https://github.com/user-attachments/assets/7f82a29c-8d39-45b6-81f3-15c2bb0a605f)
 
 
 ## Basic Details
@@ -86,17 +87,21 @@ After installation, open Godot.
 For Software:
 
 # Screenshots (Add at least 3)
-https://drive.google.com/file/d/13HiaW-jvHDopeW8v1XF5MjZh0Y8KqkA9/view?usp=drive_link
+![Screenshot 2025-02-01 223532](https://github.com/user-attachments/assets/0ea19787-97ae-4f7f-86f1-31fdd4457a67)
+
 ## Welcome to the heart of Euphony—the Main Menu, where your melodic adventure begins.##
 
-https://drive.google.com/file/d/1O7ykvyyOfycVBqDRv-Eq_El2UNyZahyT/view?usp=drive_link
+![Screenshot 2025-02-01 223903](https://github.com/user-attachments/assets/bd0fd672-c623-41fe-9f1a-6911ba807993)
+
 ## Level 1:  Village##
 
 
-https://drive.google.com/file/d/13PkPbNbSApQm-Es66U9aIsMmRT_Xey3y/view?usp=drive_link
-## Level 2: The Dark Forest
+![Screenshot 2025-02-01 224728](https://github.com/user-attachments/assets/47ec6f38-898e-4871-bb7a-29aed574f3b5)
 
-https://drive.google.com/file/d/1R2X_RB9n7PXs8iaK4KHlyFk5dmXxpLXs/view?usp=drive_link
+## Level 2: The Dark Forest
+![Screenshot 2025-02-01 225403](https://github.com/user-attachments/assets/3b1d12ee-855b-463b-a8b4-36b597a795c9)
+
+
 ## Level 3: The Heart of the Dark Forest.This is the battle where your destiny—and the soul of Euphony—will be decided.
 
 # Build Photos
@@ -109,8 +114,8 @@ https://drive.google.com/file/d/1R2X_RB9n7PXs8iaK4KHlyFk5dmXxpLXs/view?usp=drive
 
 ## Team Contributions
 - Amrita Jyothi:level building and coding
-- Elna Susan: [Specific contributions]
-- Theres Manuela: [Specific contributions]
+- Elna Susan: level biulding and data collection
+- Theres Manuela:coding and sprite development
 
 
 Made with ❤️ at TinkerHub
