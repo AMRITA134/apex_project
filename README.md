@@ -110,7 +110,7 @@ For Software:
 ### Project Demo
 # Video
 
-https://drive.google.com/file/d/1R2X_RB9n7PXs8iaK4KHlyFk5dmXxpLXs/view?usp=drive_link
+https://drive.google.com/file/d/1YSWfC-WHbMpfoKVKGPzHHY_uVOfv5_kd/view?usp=sharing
 
 
 ## Team Contributions
