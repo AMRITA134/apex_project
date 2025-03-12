@@ -110,8 +110,7 @@ For Software:
 ### Project Demo
 # Video
 
-https://drive.google.com/file/d/1YSWfC-WHbMpfoKVKGPzHHY_uVOfv5_kd/view?usp=sharing
-
+https://drive.google.com/file/d/1IE5iTkxiKmKAQleehCLIxkq5_khY4ahb/view?usp=sharing
 
 ## Team Contributions
 - Amrita Jyothi:level building and coding
